@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **frontend website**
+- 💬 Ask me about **frontend website development**
 
 - 📫 How to reach me **agunghidayat10@gmail.com**
 
