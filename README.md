@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **frontend website development**
 
-- 📫 How to reach me **agunghidayat10@gmail.com**
+- 📫 How to reach me **agung.hidayat10@gmail.com**
 
 - ⚡ Fun fact **I think i am best on my own way**
 
